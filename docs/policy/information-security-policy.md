@@ -17,3 +17,6 @@ As a Canadian insurer, Desjardins Insurance manages sensitive personal, financia
 ## 2. Scope
 This policy applies to all employees, suppliers, agents, subsidiaries, and third parties who process or access information and information systems owned, managed, or used by Desjardins Insurance.
 
+### Boundaries and Applicability
+#### Geographic
+Primary operations and information processing locations are in the Province of Quebec. Services and products are offered to clients across all Canadian provinces and territories; therefore, obligations under federal and applicable provincial privacy and insurance statutes are considered.
