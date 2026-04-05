@@ -85,3 +85,8 @@ Desjardins Insurance establishes the following high-level objectives:
 ### Legal
 - Advise on regulatory and contractual obligations.
 - Review contracts for security and privacy clauses.
+
+### Third-Party and Vendor Management
+- Perform vendor risk assessments.
+- Include security requirements in contracts.
+- Monitor supplier compliance.
