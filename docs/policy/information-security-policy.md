@@ -14,3 +14,6 @@ This policy defines the commitment of Desjardins Insurance to establish, impleme
 
 As a Canadian insurer, Desjardins Insurance manages sensitive personal, financial, and health information. Protecting these assets supports regulatory compliance and reduces operational, legal, and financial risk. It also helps preserve the organization's reputation as a trusted financial institution.
 
+## 2. Scope
+This policy applies to all employees, suppliers, agents, subsidiaries, and third parties who process or access information and information systems owned, managed, or used by Desjardins Insurance.
+
