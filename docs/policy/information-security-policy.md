@@ -56,3 +56,7 @@ Desjardins Insurance establishes the following high-level objectives:
 ### Security Policy Manager
 - Operate day-to-day policy-related activities.
 - Coordinate internal audits, management reviews, and corrective actions.
+
+### Privacy Officer
+- Oversee compliance with privacy laws and regulations (PIPEDA, Quebec Law 25).
+- Manage breach notifications and perform privacy impact assessments.
