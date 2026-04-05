@@ -78,3 +78,6 @@ Desjardins Insurance establishes the following high-level objectives:
 - Protect sensitive information and organizational assets.
 - Report security incidents or suspicious activities.
 - Complete required security awareness and training programs.
+
+### Human Resources
+- Ensure background checks, onboarding, offboarding, and training requirements are enforced.
