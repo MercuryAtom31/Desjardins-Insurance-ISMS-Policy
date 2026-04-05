@@ -47,3 +47,8 @@ Desjardins Insurance establishes the following high-level objectives:
 
 ### Chief Executive Officer (CEO)
 - Endorse and champion the information security policy across the organization.
+
+### Chief Information Security Officer (CISO)
+- Own and maintain this policy.
+- Oversee risk assessments, controls, monitoring, and continual improvement.
+- Report policy performance to executive management and the Board.
