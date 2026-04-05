@@ -44,3 +44,6 @@ Desjardins Insurance establishes the following high-level objectives:
 ## 4. Roles and Responsibilities
 ### Board of Directors
 - Provide governance oversight, approve the policy, and confirm the organization's risk appetite.
+
+### Chief Executive Officer (CEO)
+- Endorse and champion the information security policy across the organization.
