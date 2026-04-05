@@ -20,3 +20,12 @@ This policy applies to all employees, suppliers, agents, subsidiaries, and third
 ### Boundaries and Applicability
 #### Geographic
 Primary operations and information processing locations are in the Province of Quebec. Services and products are offered to clients across all Canadian provinces and territories; therefore, obligations under federal and applicable provincial privacy and insurance statutes are considered.
+
+#### Technology and Systems
+This policy applies to all IT-related systems, including:
+- Internal systems
+- Core business systems (claims, customer portal, broker and agent interfaces)
+- Email systems
+- Cloud services
+- On-premises data centers
+- Mobile applications
