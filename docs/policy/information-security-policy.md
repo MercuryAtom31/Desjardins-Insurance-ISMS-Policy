@@ -81,3 +81,7 @@ Desjardins Insurance establishes the following high-level objectives:
 
 ### Human Resources
 - Ensure background checks, onboarding, offboarding, and training requirements are enforced.
+
+### Legal
+- Advise on regulatory and contractual obligations.
+- Review contracts for security and privacy clauses.
