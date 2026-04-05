@@ -60,3 +60,10 @@ Desjardins Insurance establishes the following high-level objectives:
 ### Privacy Officer
 - Oversee compliance with privacy laws and regulations (PIPEDA, Quebec Law 25).
 - Manage breach notifications and perform privacy impact assessments.
+
+### IT and Security Operations
+- Implement and manage technical security controls including:
+  - Identity and access management
+  - Encryption
+  - Patching
+  - Logging and monitoring
