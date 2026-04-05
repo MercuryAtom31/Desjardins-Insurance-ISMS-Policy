@@ -72,3 +72,9 @@ Desjardins Insurance establishes the following high-level objectives:
 - Ensure policy controls are applied.
 - Identify and manage business-specific security risks.
 - Ensure staff receive proper training.
+
+### Employees
+- Comply with this policy and all security procedures.
+- Protect sensitive information and organizational assets.
+- Report security incidents or suspicious activities.
+- Complete required security awareness and training programs.
