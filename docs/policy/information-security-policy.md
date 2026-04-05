@@ -52,3 +52,7 @@ Desjardins Insurance establishes the following high-level objectives:
 - Own and maintain this policy.
 - Oversee risk assessments, controls, monitoring, and continual improvement.
 - Report policy performance to executive management and the Board.
+
+### Security Policy Manager
+- Operate day-to-day policy-related activities.
+- Coordinate internal audits, management reviews, and corrective actions.
