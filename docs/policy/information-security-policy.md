@@ -67,3 +67,8 @@ Desjardins Insurance establishes the following high-level objectives:
   - Encryption
   - Patching
   - Logging and monitoring
+
+### Business Unit Managers
+- Ensure policy controls are applied.
+- Identify and manage business-specific security risks.
+- Ensure staff receive proper training.
