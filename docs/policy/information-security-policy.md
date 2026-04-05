@@ -33,3 +33,11 @@ This policy applies to all IT-related systems, including:
 #### Suppliers and Third Parties
 This policy applies to vendors, reinsurers, cloud providers, and business partners that process or store Desjardins Insurance data, whether located inside or outside Canada.
 
+## 3. Objectives
+Desjardins Insurance establishes the following high-level objectives:
+- Protect clients and employees' personal information in accordance with regulatory requirements (PIPEDA, Quebec Law 25, and other applicable provincial privacy statutes).
+- Maintain availability of critical insurance systems.
+- Reduce security incidents that result in loss of confidentiality or system availability.
+- Detect and respond to security incidents within targeted SLAs.
+- Ensure critical third-party suppliers complete security assessments or have adequate contractually required controls.
+
