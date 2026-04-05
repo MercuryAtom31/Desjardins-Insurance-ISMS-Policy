@@ -97,3 +97,6 @@ Access must be restricted based on role and must follow the principle of least p
 
 ### Data Protection and Privacy
 All personal, health, and financial information must be collected for legitimate purposes and classified based on sensitivity. Data must be encrypted in transit and at rest. Access to personal data must be logged and limited to authorized users. Unnecessary data must be securely removed.
+
+### Incident Management
+The organization must maintain and operate an incident response plan. Security incidents must be detected, analyzed, documented, contained, resolved, and followed by lessons learned to reduce recurrence.
