@@ -94,3 +94,6 @@ Desjardins Insurance establishes the following high-level objectives:
 ## 5. Policy Statement
 ### Access Control
 Access must be restricted based on role and must follow the principle of least privilege. Access rights must be reviewed regularly and adjusted as needed. Privileged accounts must be monitored to prevent unauthorized use. Users must use secure authentication, including multi-factor authentication (MFA) for all remote access.
+
+### Data Protection and Privacy
+All personal, health, and financial information must be collected for legitimate purposes and classified based on sensitivity. Data must be encrypted in transit and at rest. Access to personal data must be logged and limited to authorized users. Unnecessary data must be securely removed.
