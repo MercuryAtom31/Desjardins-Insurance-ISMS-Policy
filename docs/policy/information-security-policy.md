@@ -29,3 +29,7 @@ This policy applies to all IT-related systems, including:
 - Cloud services
 - On-premises data centers
 - Mobile applications
+
+#### Suppliers and Third Parties
+This policy applies to vendors, reinsurers, cloud providers, and business partners that process or store Desjardins Insurance data, whether located inside or outside Canada.
+
