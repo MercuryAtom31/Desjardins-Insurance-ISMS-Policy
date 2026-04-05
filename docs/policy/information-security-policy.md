@@ -90,3 +90,7 @@ Desjardins Insurance establishes the following high-level objectives:
 - Perform vendor risk assessments.
 - Include security requirements in contracts.
 - Monitor supplier compliance.
+
+## 5. Policy Statement
+### Access Control
+Access must be restricted based on role and must follow the principle of least privilege. Access rights must be reviewed regularly and adjusted as needed. Privileged accounts must be monitored to prevent unauthorized use. Users must use secure authentication, including multi-factor authentication (MFA) for all remote access.
