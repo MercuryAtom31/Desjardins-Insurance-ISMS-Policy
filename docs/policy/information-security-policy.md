@@ -127,3 +127,8 @@ The organization must identify, assess, and treat security risks on an ongoing b
 
 ## 6. Applicable Laws and Regulations
 Desjardins Insurance must comply with federal and provincial laws, regulations, and standards related to information security, privacy, and financial services.
+
+### Federal Law
+- PIPEDA: Defines requirements for the collection, use, disclosure, and safeguarding of personal information.
+- CASL: Regulates commercial electronic messages, including consent and unsubscribe requirements.
+- Anti-money laundering laws: Require transaction monitoring, identity verification, and suspicious activity reporting.
