@@ -145,3 +145,7 @@ Desjardins must comply with partner and reinsurer security requirements, includi
 
 ### Regulatory Reporting and Breach Notification
 Desjardins must maintain records of legal and regulatory obligations related to the ISMS. In the event of security or privacy breaches, affected individuals and regulators must be notified within required timelines.
+
+## 7. Compliance, Governance, and Continual Improvement
+### Compliance Approach
+To ensure compliance, Desjardins must conduct regular reviews, internal audits, external assessments, and remediation tracking.
