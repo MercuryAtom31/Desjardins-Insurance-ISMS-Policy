@@ -1,0 +1,73 @@
+@startuml governance-structure
+!theme default
+skinparam monochrome true
+skinparam linetype ortho
+
+title Desjardins Insurance - Information Security Governance Structure
+
+' Board and Executive Level
+package "Board & Executive" {
+  entity "Board of Directors" as BOD
+  entity "Chief Executive Officer\n(CEO)" as CEO
+}
+
+' CISO and Direct Reports
+package "Chief Information Security Officer (CISO)" {
+  entity "CISO" as CISO
+  entity "Security Policy\nManager" as SPM
+  entity "Privacy Officer" as PO
+}
+
+' IT and Security Operations
+package "IT & Security Operations" {
+  entity "Identity & Access\nManagement" as IAM
+  entity "Encryption &\nData Protection" as EDP
+  entity "Patching &\nVulnerability Mgmt" as PVM
+  entity "Logging &\nMonitoring" as LM
+}
+
+' Supporting Functions
+package "Supporting Functions" {
+  entity "Business Unit\nManagers" as BUM
+  entity "Human\nResources" as HR
+  entity "Legal &\nCompliance" as LC
+  entity "Third-Party &\nVendor Management" as TPM
+}
+
+' Staff Level
+package "Staff & Personnel" {
+  entity "Employees" as EMP
+}
+
+' Reporting Lines
+BOD --> CEO : Governance\nOversight
+CEO --> CISO : Reports to &\nEnsures Champion
+CISO --> SPM : Operates Day-to-Day\nPolicy Activities
+CISO --> PO : Privacy\nCompliance
+CISO --> IAM : Implements Technical\nControls
+CISO --> EDP : Manages Data\nSecurity
+CISO --> PVM : Manages Patching\n& Vulnerabilities
+CISO --> LM : Monitoring &\nDetection
+CISO --> BUM : Ensures Controls\nApplied
+CISO --> HR : Enforces Training\n& Onboarding
+CISO --> LC : Regulatory &\nContractual Advice
+CISO --> TPM : Vendor Risk\nAssessment
+
+BUM --> EMP : Direct\nManagement
+HR --> EMP : HR\nServices
+
+note right of CISO
+  - Owns & maintains policy
+  - Risk assessments & controls
+  - Reports to Board
+  - Continual improvement
+end note
+
+note right of EMP
+  - Comply with policy
+  - Report incidents
+  - Complete training
+  - Protect assets
+end note
+
+@enduml
