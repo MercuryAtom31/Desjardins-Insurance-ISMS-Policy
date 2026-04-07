@@ -136,3 +136,6 @@ Desjardins Insurance must comply with federal and provincial laws, regulations, 
 ### Provincial Law
 - Law 25 (Quebec): Requires stronger personal information protections, expanded accountability, and breach reporting obligations.
 - Other provinces: Desjardins must comply with applicable provincial privacy and insurance requirements where services are provided.
+
+### Financial Sector Guidance
+Desjardins must follow guidance and expectations from regulators such as the Office of the Superintendent of Financial Institutions (OSFI), in addition to other authorities supervising financial institutions and insurers.
