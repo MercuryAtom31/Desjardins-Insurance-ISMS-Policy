@@ -139,3 +139,6 @@ Desjardins Insurance must comply with federal and provincial laws, regulations, 
 
 ### Financial Sector Guidance
 Desjardins must follow guidance and expectations from regulators such as the Office of the Superintendent of Financial Institutions (OSFI), in addition to other authorities supervising financial institutions and insurers.
+
+### Contractual and Industry Requirements
+Desjardins must comply with partner and reinsurer security requirements, including obligations related to data protection, data residency, and security controls.
