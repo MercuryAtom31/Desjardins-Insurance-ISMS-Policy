@@ -173,3 +173,6 @@ The CISO, in collaboration with the Policy Manager and relevant stakeholders, is
 
 ### Approval Process
 All policy updates and revisions must be formally approved by senior management and the Board of Directors before implementation.
+
+### Emergency Updates
+In the event of a critical security incident or urgent regulatory requirement, this policy may be updated immediately. Such updates must be reviewed and formally approved as soon as possible afterward.
