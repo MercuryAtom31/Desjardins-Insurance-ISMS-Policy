@@ -1,43 +1,30 @@
 @startuml governance-structure
-!theme default
-skinparam monochrome true
-skinparam linetype ortho
 
 title Desjardins Insurance - Information Security Governance Structure
 
 ' Board and Executive Level
-package "Board & Executive" {
-  entity "Board of Directors" as BOD
-  entity "Chief Executive Officer\n(CEO)" as CEO
-}
+rectangle "Board of Directors" as BOD
+rectangle "Chief Executive Officer\n(CEO)" as CEO
 
 ' CISO and Direct Reports
-package "Chief Information Security Officer (CISO)" {
-  entity "CISO" as CISO
-  entity "Security Policy\nManager" as SPM
-  entity "Privacy Officer" as PO
-}
+rectangle "CISO" as CISO
+rectangle "Security Policy\nManager" as SPM
+rectangle "Privacy Officer" as PO
 
 ' IT and Security Operations
-package "IT & Security Operations" {
-  entity "Identity & Access\nManagement" as IAM
-  entity "Encryption &\nData Protection" as EDP
-  entity "Patching &\nVulnerability Mgmt" as PVM
-  entity "Logging &\nMonitoring" as LM
-}
+rectangle "Identity & Access\nManagement" as IAM
+rectangle "Encryption &\nData Protection" as EDP
+rectangle "Patching &\nVulnerability Mgmt" as PVM
+rectangle "Logging &\nMonitoring" as LM
 
 ' Supporting Functions
-package "Supporting Functions" {
-  entity "Business Unit\nManagers" as BUM
-  entity "Human\nResources" as HR
-  entity "Legal &\nCompliance" as LC
-  entity "Third-Party &\nVendor Management" as TPM
-}
+rectangle "Business Unit\nManagers" as BUM
+rectangle "Human\nResources" as HR
+rectangle "Legal &\nCompliance" as LC
+rectangle "Third-Party &\nVendor Management" as TPM
 
 ' Staff Level
-package "Staff & Personnel" {
-  entity "Employees" as EMP
-}
+rectangle "Employees" as EMP
 
 ' Reporting Lines
 BOD --> CEO : Governance\nOversight
@@ -55,19 +42,5 @@ CISO --> TPM : Vendor Risk\nAssessment
 
 BUM --> EMP : Direct\nManagement
 HR --> EMP : HR\nServices
-
-note right of CISO
-  - Owns & maintains policy
-  - Risk assessments & controls
-  - Reports to Board
-  - Continual improvement
-end note
-
-note right of EMP
-  - Comply with policy
-  - Report incidents
-  - Complete training
-  - Protect assets
-end note
 
 @enduml
