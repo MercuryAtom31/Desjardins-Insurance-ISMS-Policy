@@ -118,3 +118,6 @@ Security and compliance obligations must be defined in contracts. Third-party ac
 
 ### Business Continuity and Disaster Recovery
 The organization must maintain backup systems and tested recovery procedures to support resilience during disasters or cyber incidents.
+
+### Compliance and Awareness
+Applicable laws and regulations must be communicated to personnel. Security awareness and role-based training must be provided regularly to reinforce secure behavior and risk recognition.
