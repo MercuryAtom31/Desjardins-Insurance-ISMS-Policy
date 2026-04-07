@@ -176,3 +176,10 @@ All policy updates and revisions must be formally approved by senior management 
 
 ### Emergency Updates
 In the event of a critical security incident or urgent regulatory requirement, this policy may be updated immediately. Such updates must be reviewed and formally approved as soon as possible afterward.
+
+### Version Control and Documentation
+All policy changes must be documented in the Version History section, including:
+- Version number
+- Date of change
+- Author
+- Summary of changes
