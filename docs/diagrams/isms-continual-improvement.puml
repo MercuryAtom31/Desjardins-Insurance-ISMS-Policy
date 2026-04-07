@@ -1,0 +1,79 @@
+@startuml isms-continual-improvement
+
+skinparam backgroundColor #f0f8ff
+skinparam rectangle {
+  BackgroundColor<<plan>> #4a90e2
+  BackgroundColor<<do>> #50c878
+  BackgroundColor<<check>> #ffa500
+  BackgroundColor<<act>> #d41159
+  BackgroundColor<<activity>> #f39c12
+  FontColor<<plan>> #ffffff
+  FontColor<<do>> #ffffff
+  FontColor<<check>> #ffffff
+  FontColor<<act>> #ffffff
+  FontColor<<activity>> #ffffff
+  BorderColor #333333
+  BorderThickness 2
+}
+
+title Desjardins Insurance - ISMS Continual Improvement Cycle (PDCA)
+
+' Central cycle
+rectangle "PLAN" as PLAN <<plan>>
+rectangle "DO" as DO <<do>>
+rectangle "CHECK" as CHECK <<check>>
+rectangle "ACT" as ACT <<act>>
+
+' Plan Activities
+rectangle "Risk Assessment" as RA <<activity>>
+rectangle "Policy Development" as PD <<activity>>
+rectangle "Define Objectives\n& Controls" as DOC <<activity>>
+
+' Do Activities
+rectangle "Implement Controls" as IC <<activity>>
+rectangle "Execute Policies" as EP <<activity>>
+rectangle "Deploy Security\nMeasures" as DSM <<activity>>
+
+' Check Activities
+rectangle "Internal Audits" as IA <<activity>>
+rectangle "Monitor & Log\nActivities" as MLA <<activity>>
+rectangle "Measure KPIs" as MK <<activity>>
+
+' Act Activities
+rectangle "Corrective Actions" as CA <<activity>>
+rectangle "Review & Update\nPolicies" as RUP <<activity>>
+rectangle "Communicate\nLessons Learned" as CLL <<activity>>
+
+' Cycle flow
+PLAN --> DO : Execute\nPlans
+DO --> CHECK : Measure\nResults
+CHECK --> ACT : Identify\nGaps
+ACT --> PLAN : Continuous\nImprovement
+
+' Sub-activities connections
+PLAN -.-> RA
+PLAN -.-> PD
+PLAN -.-> DOC
+
+DO -.-> IC
+DO -.-> EP
+DO -.-> DSM
+
+CHECK -.-> IA
+CHECK -.-> MLA
+CHECK -.-> MK
+
+ACT -.-> CA
+ACT -.-> RUP
+ACT -.-> CLL
+
+' Feedback loop note
+note bottom of ACT
+  Informed by:
+  - Incident analysis
+  - Audit findings
+  - Performance metrics
+  - Stakeholder feedback
+end note
+
+@enduml
