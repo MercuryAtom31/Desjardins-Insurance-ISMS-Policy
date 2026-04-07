@@ -115,3 +115,6 @@ Secure coding standards must be adopted. Security testing (including vulnerabili
 
 ### Third-Party Security
 Security and compliance obligations must be defined in contracts. Third-party access to systems and data must be controlled and continuously monitored for compliance with requirements.
+
+### Business Continuity and Disaster Recovery
+The organization must maintain backup systems and tested recovery procedures to support resilience during disasters or cyber incidents.
