@@ -112,3 +112,6 @@ Networks must be protected using secure configurations, IDS/IPS capabilities, an
 
 ### Application Security
 Secure coding standards must be adopted. Security testing (including vulnerability scanning and penetration testing) must be performed to identify and remediate weaknesses. Applications must be updated and patched in a timely manner.
+
+### Third-Party Security
+Security and compliance obligations must be defined in contracts. Third-party access to systems and data must be controlled and continuously monitored for compliance with requirements.
