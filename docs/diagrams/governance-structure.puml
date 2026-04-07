@@ -1,30 +1,50 @@
 @startuml governance-structure
 
+skinparam backgroundColor #ffffff
+skinparam rectangle {
+  BackgroundColor<<board>> #1f4788
+  BackgroundColor<<executive>> #2e5c8a
+  BackgroundColor<<ciso>> #d41159
+  BackgroundColor<<management>> #f7941d
+  BackgroundColor<<operations>> #00a86b
+  BackgroundColor<<support>> #4169e1
+  BackgroundColor<<staff>> #6495ed
+  FontColor<<board>> #ffffff
+  FontColor<<executive>> #ffffff
+  FontColor<<ciso>> #ffffff
+  FontColor<<management>> #ffffff
+  FontColor<<operations>> #ffffff
+  FontColor<<support>> #ffffff
+  FontColor<<staff>> #000000
+  BorderColor #333333
+  BorderThickness 2
+}
+
 title Desjardins Insurance - Information Security Governance Structure
 
 ' Board and Executive Level
-rectangle "Board of Directors" as BOD
-rectangle "Chief Executive Officer\n(CEO)" as CEO
+rectangle "Board of Directors" as BOD <<board>>
+rectangle "Chief Executive Officer\n(CEO)" as CEO <<executive>>
 
 ' CISO and Direct Reports
-rectangle "CISO" as CISO
-rectangle "Security Policy\nManager" as SPM
-rectangle "Privacy Officer" as PO
+rectangle "CISO" as CISO <<ciso>>
+rectangle "Security Policy\nManager" as SPM <<management>>
+rectangle "Privacy Officer" as PO <<management>>
 
 ' IT and Security Operations
-rectangle "Identity & Access\nManagement" as IAM
-rectangle "Encryption &\nData Protection" as EDP
-rectangle "Patching &\nVulnerability Mgmt" as PVM
-rectangle "Logging &\nMonitoring" as LM
+rectangle "Identity & Access\nManagement" as IAM <<operations>>
+rectangle "Encryption &\nData Protection" as EDP <<operations>>
+rectangle "Patching &\nVulnerability Mgmt" as PVM <<operations>>
+rectangle "Logging &\nMonitoring" as LM <<operations>>
 
 ' Supporting Functions
-rectangle "Business Unit\nManagers" as BUM
-rectangle "Human\nResources" as HR
-rectangle "Legal &\nCompliance" as LC
-rectangle "Third-Party &\nVendor Management" as TPM
+rectangle "Business Unit\nManagers" as BUM <<support>>
+rectangle "Human\nResources" as HR <<support>>
+rectangle "Legal &\nCompliance" as LC <<support>>
+rectangle "Third-Party &\nVendor Management" as TPM <<support>>
 
 ' Staff Level
-rectangle "Employees" as EMP
+rectangle "Employees" as EMP <<staff>>
 
 ' Reporting Lines
 BOD --> CEO : Governance\nOversight
