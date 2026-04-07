@@ -103,3 +103,6 @@ The organization must maintain and operate an incident response plan. Security i
 
 ### Information Security Governance
 Information security must align with applicable laws, regulations, and recognized frameworks, including ISO/IEC 27001. Management oversight must define responsibilities and ensure controls are periodically reviewed and improved.
+
+### Physical and Environmental Security
+Only authorized individuals may access physical systems and facilities. Badges and surveillance systems must be used where appropriate. Assets must be protected against environmental threats using controls such as backup power and fire detection systems.
