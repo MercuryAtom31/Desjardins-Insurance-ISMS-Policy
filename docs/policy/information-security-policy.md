@@ -161,3 +161,9 @@ Incidents, control failures, and system weaknesses must be documented and addres
 
 ## 8. Policy Review, Approval, and Revision
 This policy must be reviewed, updated, and approved regularly to ensure continued effectiveness and alignment with organizational objectives, regulatory requirements, and evolving threats.
+
+### Review Frequency
+This policy must be reviewed at least once per year, or when significant changes occur, including:
+- Changes in legal or regulatory requirements
+- Major security incidents or breaches
+- Organizational or technological changes
