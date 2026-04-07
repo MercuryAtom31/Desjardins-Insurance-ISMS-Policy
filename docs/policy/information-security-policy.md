@@ -167,3 +167,6 @@ This policy must be reviewed at least once per year, or when significant changes
 - Changes in legal or regulatory requirements
 - Major security incidents or breaches
 - Organizational or technological changes
+
+### Review Responsibility
+The CISO, in collaboration with the Policy Manager and relevant stakeholders, is responsible for conducting policy reviews and recommending updates.
