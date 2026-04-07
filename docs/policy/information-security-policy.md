@@ -106,3 +106,6 @@ Information security must align with applicable laws, regulations, and recognize
 
 ### Physical and Environmental Security
 Only authorized individuals may access physical systems and facilities. Badges and surveillance systems must be used where appropriate. Assets must be protected against environmental threats using controls such as backup power and fire detection systems.
+
+### Network Security
+Networks must be protected using secure configurations, IDS/IPS capabilities, and firewalls. Network segmentation must be implemented to reduce lateral movement risk. Wireless networks must use strong encryption to prevent unauthorized access.
