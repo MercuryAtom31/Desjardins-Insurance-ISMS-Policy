@@ -155,3 +155,6 @@ ISMS performance must be reviewed by senior management at least annually, or mor
 
 ### Internal and External Audits
 Internal and external audits must be performed to verify policy compliance and control effectiveness, including alignment with standards such as ISO/IEC 27001.
+
+### Continual Improvement
+Incidents, control failures, and system weaknesses must be documented and addressed through corrective actions. Lessons learned must be incorporated into the ISMS to improve long-term effectiveness.
