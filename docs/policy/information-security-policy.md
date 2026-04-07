@@ -186,3 +186,6 @@ All policy changes must be documented in the Version History section, including:
 
 ### Obsolete Versions
 Previous policy versions must be retained for audit and compliance purposes and clearly marked as obsolete to prevent unintended use.
+
+### Enforcement
+Non-compliance with this policy may result in disciplinary action, up to and including termination and legal action. This also applies to third parties.
