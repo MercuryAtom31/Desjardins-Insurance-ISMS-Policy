@@ -149,3 +149,6 @@ Desjardins must maintain records of legal and regulatory obligations related to 
 ## 7. Compliance, Governance, and Continual Improvement
 ### Compliance Approach
 To ensure compliance, Desjardins must conduct regular reviews, internal audits, external assessments, and remediation tracking.
+
+### Management Review
+ISMS performance must be reviewed by senior management at least annually, or more frequently as needed. Reviews should include audit results, corrective actions, risk posture, and progress toward security objectives.
