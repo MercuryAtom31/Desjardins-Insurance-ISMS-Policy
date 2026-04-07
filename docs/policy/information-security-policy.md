@@ -109,3 +109,6 @@ Only authorized individuals may access physical systems and facilities. Badges a
 
 ### Network Security
 Networks must be protected using secure configurations, IDS/IPS capabilities, and firewalls. Network segmentation must be implemented to reduce lateral movement risk. Wireless networks must use strong encryption to prevent unauthorized access.
+
+### Application Security
+Secure coding standards must be adopted. Security testing (including vulnerability scanning and penetration testing) must be performed to identify and remediate weaknesses. Applications must be updated and patched in a timely manner.
