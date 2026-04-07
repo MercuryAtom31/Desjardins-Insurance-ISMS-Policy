@@ -142,3 +142,6 @@ Desjardins must follow guidance and expectations from regulators such as the Off
 
 ### Contractual and Industry Requirements
 Desjardins must comply with partner and reinsurer security requirements, including obligations related to data protection, data residency, and security controls.
+
+### Regulatory Reporting and Breach Notification
+Desjardins must maintain records of legal and regulatory obligations related to the ISMS. In the event of security or privacy breaches, affected individuals and regulators must be notified within required timelines.
