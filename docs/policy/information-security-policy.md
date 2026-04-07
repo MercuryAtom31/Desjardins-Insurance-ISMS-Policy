@@ -100,3 +100,6 @@ All personal, health, and financial information must be collected for legitimate
 
 ### Incident Management
 The organization must maintain and operate an incident response plan. Security incidents must be detected, analyzed, documented, contained, resolved, and followed by lessons learned to reduce recurrence.
+
+### Information Security Governance
+Information security must align with applicable laws, regulations, and recognized frameworks, including ISO/IEC 27001. Management oversight must define responsibilities and ensure controls are periodically reviewed and improved.
