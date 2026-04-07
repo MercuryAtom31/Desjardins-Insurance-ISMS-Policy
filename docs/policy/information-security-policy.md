@@ -183,3 +183,6 @@ All policy changes must be documented in the Version History section, including:
 - Date of change
 - Author
 - Summary of changes
+
+### Obsolete Versions
+Previous policy versions must be retained for audit and compliance purposes and clearly marked as obsolete to prevent unintended use.
