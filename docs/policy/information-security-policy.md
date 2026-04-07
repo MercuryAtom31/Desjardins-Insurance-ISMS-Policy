@@ -158,3 +158,6 @@ Internal and external audits must be performed to verify policy compliance and c
 
 ### Continual Improvement
 Incidents, control failures, and system weaknesses must be documented and addressed through corrective actions. Lessons learned must be incorporated into the ISMS to improve long-term effectiveness.
+
+## 8. Policy Review, Approval, and Revision
+This policy must be reviewed, updated, and approved regularly to ensure continued effectiveness and alignment with organizational objectives, regulatory requirements, and evolving threats.
