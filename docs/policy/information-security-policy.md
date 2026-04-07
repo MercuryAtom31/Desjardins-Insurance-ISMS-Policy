@@ -124,3 +124,6 @@ Applicable laws and regulations must be communicated to personnel. Security awar
 
 ### Risk Management
 The organization must identify, assess, and treat security risks on an ongoing basis. Threats and vulnerabilities must be reviewed regularly, with risk treatment actions tracked to completion.
+
+## 6. Applicable Laws and Regulations
+Desjardins Insurance must comply with federal and provincial laws, regulations, and standards related to information security, privacy, and financial services.
