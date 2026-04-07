@@ -189,3 +189,21 @@ Previous policy versions must be retained for audit and compliance purposes and 
 
 ### Enforcement
 Non-compliance with this policy may result in disciplinary action, up to and including termination and legal action. This also applies to third parties.
+
+## 9. Glossary
+| Term / Acronym | Definition |
+|---|---|
+| ISMS | Information Security Management System |
+| CISO | Chief Information Security Officer |
+| OSFI | Office of the Superintendent of Financial Institutions |
+| PIPEDA | Personal Information Protection and Electronic Documents Act |
+| OPC | Office of the Privacy Commissioner of Canada |
+| FINTRAC | Financial Transactions and Reports Analysis Centre of Canada |
+| PII | Personally Identifiable Information |
+| MFA | Multi-Factor Authentication |
+| SoA | Statement of Applicability |
+| PIA | Privacy Impact Assessment |
+| AML/ATF | Anti-Money Laundering / Anti-Terrorist Financing |
+| SDLC | Software / Secure Development Lifecycle |
+| SLA | Service Level Agreement |
+| KPI | Key Performance Indicator |
