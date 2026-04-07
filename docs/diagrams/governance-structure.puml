@@ -1,6 +1,6 @@
 @startuml governance-structure
 
-skinparam backgroundColor #ffffff
+skinparam backgroundColor #ADD8E6
 skinparam rectangle {
   BackgroundColor<<board>> #1f4788
   BackgroundColor<<executive>> #2e5c8a
