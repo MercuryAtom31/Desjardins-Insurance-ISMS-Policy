@@ -132,3 +132,7 @@ Desjardins Insurance must comply with federal and provincial laws, regulations, 
 - PIPEDA: Defines requirements for the collection, use, disclosure, and safeguarding of personal information.
 - CASL: Regulates commercial electronic messages, including consent and unsubscribe requirements.
 - Anti-money laundering laws: Require transaction monitoring, identity verification, and suspicious activity reporting.
+
+### Provincial Law
+- Law 25 (Quebec): Requires stronger personal information protections, expanded accountability, and breach reporting obligations.
+- Other provinces: Desjardins must comply with applicable provincial privacy and insurance requirements where services are provided.
