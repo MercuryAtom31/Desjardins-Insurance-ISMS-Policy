@@ -152,3 +152,6 @@ To ensure compliance, Desjardins must conduct regular reviews, internal audits, 
 
 ### Management Review
 ISMS performance must be reviewed by senior management at least annually, or more frequently as needed. Reviews should include audit results, corrective actions, risk posture, and progress toward security objectives.
+
+### Internal and External Audits
+Internal and external audits must be performed to verify policy compliance and control effectiveness, including alignment with standards such as ISO/IEC 27001.
