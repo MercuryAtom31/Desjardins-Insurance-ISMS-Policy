@@ -1,18 +1,21 @@
 @startuml isms-continual-improvement
 
-skinparam backgroundColor #f0f8ff
+skinparam backgroundColor #F6E7BC
+skinparam ArrowColor #0B2D72
+skinparam NoteBackgroundColor #F6E7BC
+skinparam NoteBorderColor #0992C2
 skinparam rectangle {
-  BackgroundColor<<plan>> #4a90e2
-  BackgroundColor<<do>> #50c878
-  BackgroundColor<<check>> #ffa500
-  BackgroundColor<<act>> #d41159
-  BackgroundColor<<activity>> #f39c12
+  BackgroundColor<<plan>> #0B2D72
+  BackgroundColor<<do>> #0992C2
+  BackgroundColor<<check>> #0AC4E0
+  BackgroundColor<<act>> #0B2D72
+  BackgroundColor<<activity>> #F6E7BC
   FontColor<<plan>> #ffffff
   FontColor<<do>> #ffffff
-  FontColor<<check>> #ffffff
+  FontColor<<check>> #0B2D72
   FontColor<<act>> #ffffff
-  FontColor<<activity>> #ffffff
-  BorderColor #333333
+  FontColor<<activity>> #0B2D72
+  BorderColor #0992C2
   BorderThickness 2
 }
 
