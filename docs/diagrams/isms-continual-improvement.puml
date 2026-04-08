@@ -21,6 +21,10 @@ skinparam rectangle {
 
 title Desjardins Insurance - ISMS Continual Improvement Cycle (PDCA)
 
+legend top
+  ISO/IEC 27001 model: PDCA (Plan, Do, Check, Act)
+endlegend
+
 ' Central cycle
 rectangle "PLAN" as PLAN <<plan>>
 rectangle "DO" as DO <<do>>
