@@ -1,22 +1,23 @@
 @startuml governance-structure
 
-skinparam backgroundColor #ADD8E6
+skinparam backgroundColor #F6E7BC
+skinparam ArrowColor #0B2D72
 skinparam rectangle {
-  BackgroundColor<<board>> #1f4788
-  BackgroundColor<<executive>> #2e5c8a
-  BackgroundColor<<ciso>> #d41159
-  BackgroundColor<<management>> #f7941d
-  BackgroundColor<<operations>> #00a86b
-  BackgroundColor<<support>> #4169e1
-  BackgroundColor<<staff>> #6495ed
+  BackgroundColor<<board>> #0B2D72
+  BackgroundColor<<executive>> #0992C2
+  BackgroundColor<<ciso>> #0B2D72
+  BackgroundColor<<management>> #0992C2
+  BackgroundColor<<operations>> #0AC4E0
+  BackgroundColor<<support>> #0992C2
+  BackgroundColor<<staff>> #F6E7BC
   FontColor<<board>> #ffffff
   FontColor<<executive>> #ffffff
   FontColor<<ciso>> #ffffff
   FontColor<<management>> #ffffff
-  FontColor<<operations>> #ffffff
+  FontColor<<operations>> #0B2D72
   FontColor<<support>> #ffffff
-  FontColor<<staff>> #000000
-  BorderColor #333333
+  FontColor<<staff>> #0B2D72
+  BorderColor #0992C2
   BorderThickness 2
 }
 
