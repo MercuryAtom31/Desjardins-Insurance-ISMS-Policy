@@ -40,6 +40,11 @@ skinparam rectangle<<recover>> {
   FontColor #053742
 }
 
+skinparam rectangle<<detail>> {
+  BackgroundColor #E8F0F2
+  FontColor #053742
+}
+
 title Desjardins Insurance - NIST CSF 2.0 Functions
 
 legend top
@@ -53,6 +58,13 @@ rectangle "DETECT\n(DE)" as DE <<detect>>
 rectangle "RESPOND\n(RS)" as RS <<respond>>
 rectangle "RECOVER\n(RC)" as RC <<recover>>
 
+rectangle "Project Focus:\n- Define ISMS governance\n- Set risk appetite\n- Assign CISO/Board oversight\n- Approve policy lifecycle" as GV_D <<detail>>
+rectangle "Project Focus:\n- Inventory information assets\n- Classify PII/health/financial data\n- Assess threats and vulnerabilities\n- Prioritize risk treatment" as ID_D <<detail>>
+rectangle "Project Focus:\n- Enforce least privilege + MFA\n- Encrypt data at rest/in transit\n- Apply secure SDLC + patching\n- Manage third-party controls" as PR_D <<detail>>
+rectangle "Project Focus:\n- Centralize logs and monitoring\n- Define detection SLAs/KPIs\n- Perform internal security reviews\n- Identify anomalies and incidents" as DE_D <<detail>>
+rectangle "Project Focus:\n- Run incident response process\n- Escalate and contain incidents\n- Meet breach notification duties\n- Track lessons learned" as RS_D <<detail>>
+rectangle "Project Focus:\n- Execute backup and recovery plans\n- Restore critical insurance services\n- Validate post-incident stability\n- Feed improvements to governance" as RC_D <<detail>>
+
 GV --> ID : Direction and\nrisk governance
 ID --> PR : Prioritized\nsafeguards
 PR --> DE : Monitoring and\nanomaly detection
@@ -64,5 +76,12 @@ GV ..> PR : Policy and\ncontrol requirements
 GV ..> DE : Oversight and\nassurance
 ID ..> DE : Asset and risk\ncontext
 RS ..> GV : Lessons learned
+
+GV ..> GV_D
+ID ..> ID_D
+PR ..> PR_D
+DE ..> DE_D
+RS ..> RS_D
+RC ..> RC_D
 
 @enduml
