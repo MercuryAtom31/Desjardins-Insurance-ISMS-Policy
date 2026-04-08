@@ -1,0 +1,68 @@
+@startuml nist-csf-functions
+
+skinparam backgroundColor #E8F0F2
+skinparam ArrowColor #053742
+skinparam RectangleBorderColor #39A2DB
+skinparam RectangleBorderThickness 2
+skinparam DefaultTextAlignment center
+
+skinparam rectangle {
+  FontName Arial
+}
+
+skinparam rectangle<<govern>> {
+  BackgroundColor #053742
+  FontColor #FFFFFF
+}
+
+skinparam rectangle<<identify>> {
+  BackgroundColor #39A2DB
+  FontColor #FFFFFF
+}
+
+skinparam rectangle<<protect>> {
+  BackgroundColor #A2DBFA
+  FontColor #053742
+}
+
+skinparam rectangle<<detect>> {
+  BackgroundColor #39A2DB
+  FontColor #FFFFFF
+}
+
+skinparam rectangle<<respond>> {
+  BackgroundColor #053742
+  FontColor #FFFFFF
+}
+
+skinparam rectangle<<recover>> {
+  BackgroundColor #A2DBFA
+  FontColor #053742
+}
+
+title Desjardins Insurance - NIST CSF 2.0 Functions
+
+legend top
+  NIST CSF functions shown: Govern, Identify, Protect, Detect, Respond, Recover
+endlegend
+
+rectangle "GOVERN\n(GV)" as GV <<govern>>
+rectangle "IDENTIFY\n(ID)" as ID <<identify>>
+rectangle "PROTECT\n(PR)" as PR <<protect>>
+rectangle "DETECT\n(DE)" as DE <<detect>>
+rectangle "RESPOND\n(RS)" as RS <<respond>>
+rectangle "RECOVER\n(RC)" as RC <<recover>>
+
+GV --> ID : Direction and\nrisk governance
+ID --> PR : Prioritized\nsafeguards
+PR --> DE : Monitoring and\nanomaly detection
+DE --> RS : Incident\nresponse actions
+RS --> RC : Restoration and\nresilience
+RC --> GV : Governance\nfeedback loop
+
+GV ..> PR : Policy and\ncontrol requirements
+GV ..> DE : Oversight and\nassurance
+ID ..> DE : Asset and risk\ncontext
+RS ..> GV : Lessons learned
+
+@enduml
