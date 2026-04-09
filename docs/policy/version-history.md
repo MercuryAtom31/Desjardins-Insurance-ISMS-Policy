@@ -11,3 +11,7 @@ This document tracks revision history for the project policy artifact and is mai
 | 0.3 | 2026-02-28 | Board of Directors | Presentation and approval of policy |
 | 1.0 | 2026-03-11 | CEO and Board of Directors | Release of version 1 of the policy |
 
+## Change Management Rules
+- Every update must include version, date, author, and summary.
+- Obsolete versions must be retained and clearly marked as obsolete when superseded.
+- Emergency updates should be reviewed and formally approved as soon as practicable after implementation.
