@@ -30,3 +30,8 @@ This is an academic mapping for project purposes and not an official legal inter
 | Gap ID | Requirement Source | Observed Gap | Risk Level | Owner | Target Date | Status |
 |---|---|---|---|---|---|---|
 | GAP-001 | Example: Law 25 | Example: Breach notification workflow not formally tested | Medium | Privacy Officer | 2026-06-30 | Open |
+
+## Review and Update
+- Review frequency: At least annually, or after major legal/regulatory change
+- Review owners: CISO, Privacy Officer, Legal, Security Policy Manager
+- Evidence refresh: During internal audits and management review cycles
