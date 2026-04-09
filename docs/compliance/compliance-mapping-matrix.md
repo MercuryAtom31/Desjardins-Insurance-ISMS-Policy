@@ -25,3 +25,8 @@ This is an academic mapping for project purposes and not an official legal inter
 - Operational security: logging, monitoring, incident response, corrective action tracking
 - Third-party risk: due diligence, contract controls, ongoing compliance monitoring
 - Resilience: backup, disaster recovery, service restoration and post-incident improvement
+
+## Gaps and Improvement Tracking Template
+| Gap ID | Requirement Source | Observed Gap | Risk Level | Owner | Target Date | Status |
+|---|---|---|---|---|---|---|
+| GAP-001 | Example: Law 25 | Example: Breach notification workflow not formally tested | Medium | Privacy Officer | 2026-06-30 | Open |
