@@ -18,3 +18,10 @@ This is an academic mapping for project purposes and not an official legal inter
 | OSFI and financial sector guidance | Risk-based security governance and resilience expectations | Information Security Governance; Business Continuity and Disaster Recovery | GV, ID, PR, RC | Risk assessment, business continuity, continual improvement | Risk register, BCP/DR test results, management review minutes |
 | Contractual and reinsurer requirements | Security clauses, data residency, control assurance | Third-Party Security; Vendor Management | GV, ID, PR, DE | Supplier security controls, contractual security obligations | Vendor risk assessments, contract clause library, attestation reviews |
 | Multi-jurisdiction provincial obligations | Comply with provincial privacy/insurance requirements where clients are served | Compliance and Awareness; Legal; Privacy Officer oversight | GV, ID, RS | Compliance program, legal requirement tracking | Regulatory obligations register, compliance audit plan |
+
+## Control Coverage Summary
+- Governance and accountability: Board, CEO, CISO, Privacy Officer oversight
+- Data lifecycle protection: classification, encryption, least privilege, retention and disposal
+- Operational security: logging, monitoring, incident response, corrective action tracking
+- Third-party risk: due diligence, contract controls, ongoing compliance monitoring
+- Resilience: backup, disaster recovery, service restoration and post-incident improvement
